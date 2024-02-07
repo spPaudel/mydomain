@@ -1,5 +1,3 @@
-# mydomain.com
-
 <html>
 <head>
 <meta name="DESCRIPTION"
