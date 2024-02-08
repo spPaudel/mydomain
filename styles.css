@@ -1,0 +1,25 @@
+div.day {
+	padding:0.5em;
+	border-style:solid;
+	border-width:2px;
+	background-color:rgb(209, 182, 133);
+	width:250px;
+	float:right
+}
+
+body{
+    background: url(img/flowers.jpg) no-repeat center center/cover;
+    height: 100vh;
+    width: auto;
+    position: relative;
+    color: rgb(27, 27, 226) ;
+}
+
+#divAbout{
+    color: rgb(221, 232, 122);
+    text-shadow: rgb(20, 21, 2);
+}
+
+.subTopic{
+    color: yellow;
+}
