@@ -1,2 +1,2 @@
 # My homepage  
-https://www.paudelsubodh.com.np
+http://www.paudelsubodh.com.np
