@@ -1,5 +1,3 @@
-
-
 #divAbout {
     color: rgb(236, 250, 116);
     text-shadow: rgb(20, 21, 2);
@@ -8,4 +6,13 @@
 .subTopic {
     color: rgb(236, 250, 116);
     text-shadow: rgb(20, 21, 2);
+}
+
+#Interests {
+    color: black;
+    
+}
+
+#Projects {
+    color: black;
 }
