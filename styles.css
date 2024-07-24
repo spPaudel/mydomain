@@ -1,11 +1,4 @@
-body {
-    height: 100vh;
-    width: auto;
-    position: relative;
-    color: rgb(27, 27, 226) ;
-    background-blend-mode: darken;
-    
-}
+
 
 #divAbout {
     color: rgb(236, 250, 116);
