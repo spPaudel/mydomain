@@ -1,17 +1,18 @@
-body{
-    background: url(img/flowers.jpg) no-repeat center center/cover;
+body {
     height: 100vh;
     width: auto;
     position: relative;
     color: rgb(27, 27, 226) ;
+    background-blend-mode: darken;
+    
 }
 
-#divAbout{
+#divAbout {
     color: rgb(236, 250, 116);
     text-shadow: rgb(20, 21, 2);
 }
 
-.subTopic{
+.subTopic {
     color: rgb(236, 250, 116);
     text-shadow: rgb(20, 21, 2);
 }
