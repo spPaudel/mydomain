@@ -110,7 +110,7 @@ body {
 }
 
 .nav-bar {
-    position: absolute;
+    position: fixed;
     display: flex;
     flex-direction: column;
 
@@ -134,4 +134,16 @@ body {
 
 .visible {
    visibility: visible;
+}
+
+@media screen and (max-width: 514px) {
+    .body {
+        margin-left: 12vw;
+        margin-right: 15vw;
+        margin-top: 7vh;
+        margin-bottom: 10vh;
+
+        width: 80vw;
+        height: 85vh;
+    }
 }
